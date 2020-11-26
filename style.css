@@ -75,6 +75,9 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  width: 50%;
+  position: fixed;
+
 }
 
 li {
@@ -87,6 +90,7 @@ li a {
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
 
 li a:hover {
@@ -108,4 +112,7 @@ li a:hover {
 #contact iframe {
     width: 100%;
 
+}
+#test{
+    align-items: center;
 }
